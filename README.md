@@ -1,13 +1,15 @@
 # flutterdevcampapp
+
 Starting point for flutterdevcamp
 
 Initial Code for checking prerequsite
 
 ## Step 1 Starting Point
+
 All this has already been run
 
 ```powershell
-md app 
+md app
 cd app
 flutter create flutter_devcamp
 cd flutter_devcamp
@@ -24,7 +26,9 @@ cd ..
 code .
 flutter run
 ```
-## To Test 
+
+## To Test
+
 make sure you are in **flutter_devcamp** directory
 
 ```powershell
@@ -34,4 +38,4 @@ flutter run
 
 ## Repo Code
 
-![./screenshots/sumithhomescreen.png](./screenshots/sumithhomescreen.png)
+![./screenshots/cecilia-rivero-screenshot.png](./screenshots/cecilia-rivero-screenshot.png)
